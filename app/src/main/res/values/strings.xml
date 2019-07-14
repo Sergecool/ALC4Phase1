@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="name">Serge Landry DJOUNO WABE</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Cameroon</string>
+    <string name="email">Email: sdjouno@gmail.com</string>
+    <string name="phone_number">Phone Number: 237699841707</string>
+    <string name="slack_username">Slack Username: @Serge Landry</string>
+</resources>
